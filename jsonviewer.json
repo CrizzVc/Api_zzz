@@ -32,7 +32,7 @@
     "element": "physical",
     "grade": "a",
     "tipe": "attack",
-    "img": "/Api_zzz/img/sources/personajes/corin.0.png",
+    "img": "https://github.com/CrizzVc/Api_zzz/blob/e5f82528595cd7638c901ea04a4bae68420dde7a/img/sources/personajes/corin.1.png",
     "dialoge": "señor..."
   }
 ]
