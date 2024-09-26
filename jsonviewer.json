@@ -5,7 +5,7 @@
     "element": "ice",
     "grade": "s",
     "tipe": "attack",
-    "img": "#",
+    "img": "/Api_zzz/img/sources/personajes/ellen.0.png",
     "dialoge": "Zzz"
   },
   {
@@ -14,7 +14,7 @@
     "element": "physical",
     "grade": "s",
     "tipe": "attack",
-    "img": "#",
+    "img": "/Api_zzz/img/sources/personajes/.0.png",
     "dialoge": "Cariño"
   },
   {
@@ -23,7 +23,7 @@
     "element": "electro",
     "grade": "a",
     "tipe": "stunner",
-    "img": "#",
+    "img": "/Api_zzz/img/sources/personajes/ellen.0.png",
     "dialoge": "hamburguesa..."
   },
   {
@@ -32,7 +32,7 @@
     "element": "physical",
     "grade": "a",
     "tipe": "attack",
-    "img": "#",
+    "img": "/Api_zzz/img/sources/personajes/corin.0.png",
     "dialoge": "señor..."
   }
 ]
