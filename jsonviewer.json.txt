@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "name": "ellen joe",
+    "element": "ice",
+    "grade": "s",
+    "tipe": "attack",
+    "img": "#",
+    "dialoge": "Zzz"
+  },
+  {
+    "id": "02",
+    "name": "Jane Doe",
+    "element": "physical",
+    "grade": "s",
+    "tipe": "attack",
+    "img": "#",
+    "dialoge": "Cariño"
+  },
+  {
+    "id": "03",
+    "name": "Anby Demara",
+    "element": "electro",
+    "grade": "a",
+    "tipe": "stunner",
+    "img": "#",
+    "dialoge": "hamburguesa..."
+  },
+  {
+    "id": "04",
+    "name": "corin wickes",
+    "element": "physical",
+    "grade": "a",
+    "tipe": "attack",
+    "img": "#",
+    "dialoge": "señor..."
+  }
+]
