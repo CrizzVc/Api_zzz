@@ -5,7 +5,7 @@
     "element": "ice",
     "grade": "s",
     "tipe": "attack",
-    "img": "/Api_zzz/img/sources/personajes/ellen.0.png",
+    "img": "https://github.com/CrizzVc/Api_zzz/blob/f7f94e785af9744c726f9e194c4a41791dd7b088/img/sources/personajes/ellen.0.png",
     "dialoge": "Zzz"
   },
   {
@@ -14,7 +14,7 @@
     "element": "physical",
     "grade": "s",
     "tipe": "attack",
-    "img": "/Api_zzz/img/sources/personajes/.0.png",
+    "img": "https://github.com/CrizzVc/Api_zzz/blob/f7f94e785af9744c726f9e194c4a41791dd7b088/img/sources/personajes/jane.0.png",
     "dialoge": "Cariño"
   },
   {
@@ -23,7 +23,7 @@
     "element": "electro",
     "grade": "a",
     "tipe": "stunner",
-    "img": "/Api_zzz/img/sources/personajes/anby.0.png",
+    "img": "https://github.com/CrizzVc/Api_zzz/blob/f7f94e785af9744c726f9e194c4a41791dd7b088/img/sources/personajes/anby.0.png",
     "dialoge": "hamburguesa..."
   },
   {
