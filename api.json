@@ -3,40 +3,130 @@
     "id": "01",
     "name": "ellen joe",
     "element": "ice",
-    "grade": "s",
-    "tipe": "attack",
+    "grade": "✦ ✦ ✦ ✦ ✦",
+    "tipe": "Attack",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/ellen.0.png",
-    "dialoge": "'Terminemos aquí. Estoy cansado'. 'Un momento, déjame comprobarlo... ¡todavía quedan... dos preguntas!''...zzz...''¿Señorita Ellen? ¿Señorita Ellen? Ya está dormida...'",
+    "dialoge": "Ah, otro encargo molesto... Definitivamente necesito un cambio de horario.",
     "color":"rgb(214, 57, 96)"
   },
   {
     "id": "02",
     "name": "Jane Doe",
     "element": "physical",
-    "grade": "s",
-    "tipe": "attack",
+    "grade": "✦ ✦ ✦ ✦ ✦",
+    "tipe": "Anomaly",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/jane.0.png",
-    "dialoge": "Cariño",
+    "dialoge": "Oye,¡la vez anterior fue la última! Esta vez digo la verdad, ¡créeme!.",
     "color":"rgb(231, 131, 37)"
   },
   {
     "id": "03",
     "name": "Anby Demara",
     "element": "electro",
-    "grade": "a",
+    "grade": "✦ ✦ ✦ ✦",
     "tipe": "stunner",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/anby.0.png",
-    "dialoge": "hamburguesa...",
+    "dialoge": "objetivo confirmado. Iniciando operativo.",
     "color":"rgb(138, 192, 39)"
   },
   {
     "id": "04",
     "name": "corin wickes",
     "element": "physical",
-    "grade": "a",
-    "tipe": "attack",
+    "grade": "✦ ✦ ✦ ✦",
+    "tipe": "Attack",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
-    "dialoge": "señor...",
+    "dialoge": "¿D-de verdad crees que puedo?...",
     "color":"rgb(112, 175, 140)"
+  },
+  {
+    "id": "05",
+    "name": "Nicole Demara",
+    "element": "ether",
+    "grade": "✦ ✦ ✦ ✦",
+    "tipe": "support",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "dialoge": "¡Una sabia elección! ¡Pero te advirto que mis horrarios no son baratos!",
+    "color":"#ff89d0"
+  },
+  {
+    "id": "06",
+    "name": "Billy Kid",
+    "element": "physical",
+    "grade": "✦ ✦ ✦ ✦ ",
+    "tipe": "Attack",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "dialoge": "¡Los Caballeros Estelares nunca perden!¡Ja, ja, ja, ja!",
+    "color":"#ff2d5a"
+  },
+  {
+    "id": "07",
+    "name": "Nekomiya Mana",
+    "element": "physical",
+    "grade": "✦ ✦ ✦ ✦ ✦",
+    "tipe": "Attack",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "dialoge": "¡La mejor caballa es la que aún estas por comer!",
+    "color":"#ff732d"
+  },
+  {
+    "id": "08",
+    "name": "Von Lycaon",
+    "element": "ice",
+    "grade": "✦ ✦ ✦ ✦ ✦",
+    "tipe": "stunner",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "dialoge": "Lycaon, a sus órdenes.",
+    "color":"#d0d3e0"
+  },
+  {
+    "id": "09",
+    "name": "Koleda Belobog",
+    "element": "fire",
+    "grade": "✦ ✦ ✦ ✦ ✦",
+    "tipe": "stunner",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "dialoge": "Soy Koleda, presidenta de la contrucciones Belobog.",
+    "color":"#e94f13"
+  },
+  {
+    "id": "10",
+    "name": "Alexandrina",
+    "element": "electro",
+    "grade": "✦ ✦ ✦ ✦ ✦",
+    "tipe": "support",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "dialoge": "¿Tú eres el nuevo amo? Servicios Domésticos Victoria está a su servicio.",
+    "color":"#c4c1b1"
+  },
+  {
+    "id": "11",
+    "name": "N.° 11",
+    "element": "fire",
+    "grade": "✦ ✦ ✦ ✦ ✦",
+    "tipe": "Attack",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "dialoge": "No me importa dónde hayas estado, solo dame una orden.",
+    "color":"#ffbb2a"
+  },
+  {
+    "id": "12",
+    "name": "César King",
+    "element": "physical",
+    "grade": "✦ ✦ ✦ ✦ ✦",
+    "tipe": "Defense",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "dialoge": "No me importa dónde hayas estado, solo dame una orden.",
+    "color":"#d14e45"
+  },
+  {
+    "id": "13",
+    "name": "Lucy",
+    "element": "fire",
+    "grade": "✦ ✦ ✦ ✦",
+    "tipe": "support",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "dialoge": "Ha llegado una honorable invitada. ¡Concédame el honor de atenderla, señorita lucy!",
+    "color":"#c6a97a"
   }
 ]
