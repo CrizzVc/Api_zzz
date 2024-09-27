@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01",
+    "name": "ellen joe",
+    "element": "ice",
+    "grade": "s",
+    "tipe": "attack",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/ellen.0.png",
+    "dialoge": "Zzz",
+    "color":"rgb(214, 57, 96)"
+  },
+  {
+    "id": "02",
+    "name": "Jane Doe",
+    "element": "physical",
+    "grade": "s",
+    "tipe": "attack",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/jane.0.png",
+    "dialoge": "Cariño",
+    "color":"rgb(214, 57, 96)"
+  },
+  {
+    "id": "03",
+    "name": "Anby Demara",
+    "element": "electro",
+    "grade": "a",
+    "tipe": "stunner",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/anby.0.png",
+    "dialoge": "hamburguesa...",
+    "color":"rgb(214, 57, 96)"
+  },
+  {
+    "id": "04",
+    "name": "corin wickes",
+    "element": "physical",
+    "grade": "a",
+    "tipe": "attack",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "dialoge": "señor...",
+    "color":"rgb(214, 57, 96)"
+  }
+]
