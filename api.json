@@ -7,7 +7,9 @@
     "tipe": "Attack",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/ellen.0.png",
     "dialoge": "Ah, otro encargo molesto... Definitivamente necesito un cambio de horario.",
-    "color":"rgb(214, 57, 96)"
+    "color":"rgb(214, 57, 96)",
+    "rec1":"",
+    "rec2":""
   },
   {
     "id": "02",
@@ -17,7 +19,9 @@
     "tipe": "Anomaly",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/jane.0.png",
     "dialoge": "Oye,¡la vez anterior fue la última! Esta vez digo la verdad, ¡créeme!.",
-    "color":"rgb(231, 131, 37)"
+    "color":"rgb(231, 131, 37)",
+    "rec1":"",
+    "rec2":""
   },
   {
     "id": "03",
@@ -27,7 +31,9 @@
     "tipe": "stunner",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/anby.0.png",
     "dialoge": "objetivo confirmado. Iniciando operativo.",
-    "color":"rgb(138, 192, 39)"
+    "color":"rgb(138, 192, 39)",
+    "rec1":"",
+    "rec2":""
   },
   {
     "id": "04",
@@ -37,7 +43,9 @@
     "tipe": "Attack",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
     "dialoge": "¿D-de verdad crees que puedo?...",
-    "color":"rgb(112, 175, 140)"
+    "color":"rgb(112, 175, 140)",
+    "rec1":"",
+    "rec2":""
   },
   {
     "id": "05",
@@ -47,7 +55,9 @@
     "tipe": "support",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/nicole.0.png",
     "dialoge": "¡Una sabia elección! ¡Pero te advirto que mis horrarios no son baratos!",
-    "color":"#ff89d0"
+    "color":"#ff89d0",
+    "rec1":"",
+    "rec2":""
   },
   {
     "id": "06",
@@ -57,7 +67,9 @@
     "tipe": "Attack",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/billy.0.png",
     "dialoge": "¡Los Caballeros Estelares nunca perden!¡Ja, ja, ja, ja!",
-    "color":"#ff2d5a"
+    "color":"#ff2d5a",
+    "rec1":"",
+    "rec2":""
   },
   {
     "id": "07",
@@ -67,7 +79,9 @@
     "tipe": "Attack",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/nekomata.0.png",
     "dialoge": "¡La mejor caballa es la que aún estas por comer!",
-    "color":"#ff732d"
+    "color":"#ff732d",
+    "rec1":"",
+    "rec2":""
   },
   {
     "id": "08",
@@ -77,7 +91,9 @@
     "tipe": "stunner",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lycaon.0.png",
     "dialoge": "Lycaon, a sus órdenes.",
-    "color":"#d0d3e0"
+    "color":"#d0d3e0",
+    "rec1":"",
+    "rec2":""
   },
   {
     "id": "09",
@@ -87,7 +103,9 @@
     "tipe": "stunner",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/koleda.0.png",
     "dialoge": "Soy Koleda, presidenta de la contrucciones Belobog.",
-    "color":"#e94f13"
+    "color":"#e94f13",
+    "rec1":"",
+    "rec2":""
   },
   {
     "id": "10",
@@ -97,7 +115,9 @@
     "tipe": "support",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/alexandrina.0.png",
     "dialoge": "¿Tú eres el nuevo amo? Servicios Domésticos Victoria está a su servicio.",
-    "color":"#c4c1b1"
+    "color":"#c4c1b1",
+    "rec1":"",
+    "rec2":""
   },
   {
     "id": "11",
@@ -107,7 +127,9 @@
     "tipe": "Attack",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/soldier11.0.png",
     "dialoge": "No me importa dónde hayas estado, solo dame una orden.",
-    "color":"#ffbb2a"
+    "color":"#ffbb2a",
+    "rec1":"",
+    "rec2":""
   },
   {
     "id": "12",
@@ -117,7 +139,9 @@
     "tipe": "Defense",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/cesar.0.png",
     "dialoge": "No me importa dónde hayas estado, solo dame una orden.",
-    "color":"#d14e45"
+    "color":"#d14e45",
+    "rec1":"",
+    "rec2":""
   },
   {
     "id": "13",
@@ -127,6 +151,8 @@
     "tipe": "support",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lucy.0.png",
     "dialoge": "Ha llegado una honorable invitada. ¡Concédame el honor de atenderla, señorita lucy!",
-    "color":"#c6a97a"
+    "color":"#c6a97a",
+    "rec1":"",
+    "rec2":""
   }
 ]
