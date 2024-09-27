@@ -1,3 +1,3 @@
 # Api_zzz
 
-https://crizzvc.github.io/Api_zzz/db.json
+https://crizzvc.github.io/Api_zzz/api.json
