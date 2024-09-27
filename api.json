@@ -8,8 +8,8 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/ellen.0.png",
     "dialoge": "Ah, otro encargo molesto... Definitivamente necesito un cambio de horario.",
     "color":"rgb(214, 57, 96)",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/ellen/ellen.02.jpg);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/ellen/ellen.01.jpg);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/ellen/ellen.02.jpg);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/ellen/ellen.01.jpg);"
   },
   {
     "id": "02",
@@ -20,8 +20,8 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/jane.0.png",
     "dialoge": "Oye,¡la vez anterior fue la última! Esta vez digo la verdad, ¡créeme!.",
     "color":"rgb(231, 131, 37)",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/jane/jane.01.png);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/jane/jane.02.png);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/jane/jane.01.png);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/jane/jane.02.png);"
   },
   {
     "id": "03",
@@ -32,8 +32,8 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/anby.0.png",
     "dialoge": "objetivo confirmado. Iniciando operativo.",
     "color":"rgb(138, 192, 39)",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/anby/anby.02.jpeg);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/anby/anby.03.jpeg);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/anby/anby.02.jpeg);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/anby/anby.03.jpeg);"
   },
   {
     "id": "04",
@@ -44,8 +44,8 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
     "dialoge": "¿D-de verdad crees que puedo?...",
     "color":"rgb(112, 175, 140)",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/corin/corin.01.jpeg);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/corin/corin.02.jpeg);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/corin/corin.01.jpeg);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/corin/corin.02.jpeg);"
   },
   {
     "id": "05",
@@ -56,8 +56,8 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/nicole.0.png",
     "dialoge": "¡Una sabia elección! ¡Pero te advirto que mis horrarios no son baratos!",
     "color":"#ff89d0",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/nicole/nicole%20(3).jpeg);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/nicole/nicole%20(2).jpeg);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/nicole/nicole%20(3).jpeg);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/nicole/nicole%20(2).jpeg);"
   },
   {
     "id": "06",
@@ -68,8 +68,8 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/billy.0.png",
     "dialoge": "¡Los Caballeros Estelares nunca perden!¡Ja, ja, ja, ja!",
     "color":"#ff2d5a",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/billy/billy.01.jpeg);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/billy/billy.02.jpeg);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/billy/billy.01.jpeg);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/billy/billy.02.jpeg);"
   },
   {
     "id": "07",
@@ -80,8 +80,8 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/nekomata.0.png",
     "dialoge": "¡La mejor caballa es la que aún estas por comer!",
     "color":"#ff732d",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/nekomata/neko.01.jpeg);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/nekomata/neko.02.jpeg);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/nekomata/neko.01.jpeg);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/nekomata/neko.02.jpeg);"
   },
   {
     "id": "08",
@@ -92,8 +92,8 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lycaon.0.png",
     "dialoge": "Lycaon, a sus órdenes.",
     "color":"#d0d3e0",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lycaon/lycaon.01.jpeg);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lycaon/lycaon.02.jpeg);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lycaon/lycaon.01.jpeg);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lycaon/lycaon.02.jpeg);"
   },
   {
     "id": "09",
@@ -104,8 +104,8 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/koleda.0.png",
     "dialoge": "Soy Koleda, presidenta de la contrucciones Belobog.",
     "color":"#e94f13",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/koleda/koleda.02.jpeg);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/koleda/koleda.03.jpeg);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/koleda/koleda.02.jpeg);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/koleda/koleda.03.jpeg);"
   },
   {
     "id": "10",
@@ -116,8 +116,8 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/alexandrina.0.png",
     "dialoge": "¿Tú eres el nuevo amo? Servicios Domésticos Victoria está a su servicio.",
     "color":"#c4c1b1",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/alexandrina/alexandrina.01.jpeg);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/alexandrina/Alexandrina.02.jpeg);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/alexandrina/alexandrina.01.jpeg);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/alexandrina/Alexandrina.02.jpeg);"
   },
   {
     "id": "11",
@@ -128,8 +128,8 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/soldier11.0.png",
     "dialoge": "No me importa dónde hayas estado, solo dame una orden.",
     "color":"#ffbb2a",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/n.11/soldier11.01.jpeg);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/n.11/soldier11.02.jpeg);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/n.11/soldier11.01.jpeg);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/n.11/soldier11.02.jpeg);"
   },
   {
     "id": "12",
@@ -140,8 +140,8 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/cesar.0.png",
     "dialoge": "No me importa dónde hayas estado, solo dame una orden.",
     "color":"#d14e45",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/cesar/cesar.01.jpg);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/cesar/cesar.02.png);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/cesar/cesar.01.jpg);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/cesar/cesar.02.png);"
   },
   {
     "id": "13",
@@ -152,7 +152,7 @@
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lucy.0.png",
     "dialoge": "Ha llegado una honorable invitada. ¡Concédame el honor de atenderla, señorita lucy!",
     "color":"#c6a97a",
-    "rec1":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.02.png);",
-    "rec2":"background: linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.04.png);"
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.02.png);",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url(https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.04.png);"
   }
 ]
