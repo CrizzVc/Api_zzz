@@ -17,7 +17,7 @@
     "tipe": "attack",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/jane.0.png",
     "dialoge": "Cariño",
-    "color":"rgb(214, 57, 96)"
+    "color":"rgb(231, 131, 37)"
   },
   {
     "id": "03",
@@ -27,7 +27,7 @@
     "tipe": "stunner",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/anby.0.png",
     "dialoge": "hamburguesa...",
-    "color":"rgb(214, 57, 96)"
+    "color":"rgb(138, 192, 39)"
   },
   {
     "id": "04",
@@ -37,6 +37,6 @@
     "tipe": "attack",
     "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
     "dialoge": "señor...",
-    "color":"rgb(214, 57, 96)"
+    "color":"rgb(112, 175, 140)"
   }
 ]
