@@ -45,7 +45,7 @@
     "element": "ether",
     "grade": "✦ ✦ ✦ ✦",
     "tipe": "support",
-    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/nicole.0.png",
     "dialoge": "¡Una sabia elección! ¡Pero te advirto que mis horrarios no son baratos!",
     "color":"#ff89d0"
   },
@@ -55,7 +55,7 @@
     "element": "physical",
     "grade": "✦ ✦ ✦ ✦ ",
     "tipe": "Attack",
-    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/billy.0.png",
     "dialoge": "¡Los Caballeros Estelares nunca perden!¡Ja, ja, ja, ja!",
     "color":"#ff2d5a"
   },
@@ -65,7 +65,7 @@
     "element": "physical",
     "grade": "✦ ✦ ✦ ✦ ✦",
     "tipe": "Attack",
-    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/nekomata.0.png",
     "dialoge": "¡La mejor caballa es la que aún estas por comer!",
     "color":"#ff732d"
   },
@@ -75,7 +75,7 @@
     "element": "ice",
     "grade": "✦ ✦ ✦ ✦ ✦",
     "tipe": "stunner",
-    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lycaon.0.png",
     "dialoge": "Lycaon, a sus órdenes.",
     "color":"#d0d3e0"
   },
@@ -85,7 +85,7 @@
     "element": "fire",
     "grade": "✦ ✦ ✦ ✦ ✦",
     "tipe": "stunner",
-    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/koleda.0.png",
     "dialoge": "Soy Koleda, presidenta de la contrucciones Belobog.",
     "color":"#e94f13"
   },
@@ -95,7 +95,7 @@
     "element": "electro",
     "grade": "✦ ✦ ✦ ✦ ✦",
     "tipe": "support",
-    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/alexandrina.0.png",
     "dialoge": "¿Tú eres el nuevo amo? Servicios Domésticos Victoria está a su servicio.",
     "color":"#c4c1b1"
   },
@@ -105,7 +105,7 @@
     "element": "fire",
     "grade": "✦ ✦ ✦ ✦ ✦",
     "tipe": "Attack",
-    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/soldier11.0.png",
     "dialoge": "No me importa dónde hayas estado, solo dame una orden.",
     "color":"#ffbb2a"
   },
@@ -115,7 +115,7 @@
     "element": "physical",
     "grade": "✦ ✦ ✦ ✦ ✦",
     "tipe": "Defense",
-    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/cesar.0.png",
     "dialoge": "No me importa dónde hayas estado, solo dame una orden.",
     "color":"#d14e45"
   },
@@ -125,7 +125,7 @@
     "element": "fire",
     "grade": "✦ ✦ ✦ ✦",
     "tipe": "support",
-    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/corin.1.png",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lucy.0.png",
     "dialoge": "Ha llegado una honorable invitada. ¡Concédame el honor de atenderla, señorita lucy!",
     "color":"#c6a97a"
   }
