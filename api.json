@@ -154,5 +154,114 @@
     "color":"#c6a97a",
     "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.02.png');",
     "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.04.png');"
+  },
+  {
+    "id": "14",
+    "name": "Grace Howard",
+    "element": "electro",
+    "grade": "✦ ✦ ✦ ✦ ✦",
+    "tipe": "Anomaly",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lucy.0.png",
+    "dialoge": "Qué hermosos contornos... Me muero de ganas de verlo por dentro.",
+    "color":"#ed6646",
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.02.png');",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.04.png');"
+  },
+  {
+    "id": "15",
+    "name": "Piper Wheel",
+    "element": "physical",
+    "grade": "✦ ✦ ✦ ✦",
+    "tipe": "Anomaly",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lucy.0.png",
+    "dialoge": "¿Necesitas que te lleven? No olvides abrocharte el cinturón.",
+    "color":"#d5c798",
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.02.png');",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.04.png');"
+  },
+  {
+    "id": "16",
+    "name": "Qingyi",
+    "element": "electro",
+    "grade": "✦ ✦ ✦ ✦ ✦",
+    "tipe": "stunner",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lucy.0.png",
+    "dialoge": "Un encuentro fortuito, tal y como esperaba.",
+    "color":"#6b8571",
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.02.png');",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.04.png');"
+  },
+  {
+    "id": "17",
+    "name": "Zhu Yan",
+    "element": "ether",
+    "grade": "✦ ✦ ✦ ✦ ✦",
+    "tipe": "Attack",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lucy.0.png",
+    "dialoge": "Capitana de equipo de la Unidad de Investigación Criminal, Zhun yuan, esperando órdenes.",
+    "color":"#5b93ce",
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.02.png');",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.04.png');"
+  },
+  {
+    "id": "18",
+    "name": "Seth Lowell",
+    "element": "electro",
+    "grade": "✦ ✦ ✦ ✦",
+    "tipe": "Defense",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lucy.0.png",
+    "dialoge": "Capitana, ¡yo me encargo de los malhechores!.",
+    "color":"#5d82b0",
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.02.png');",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.04.png');"
+  },
+  {
+    "id": "19",
+    "name": "Burnice",
+    "element": "fire",
+    "grade": "✦ ✦ ✦ ✦ ✦",
+    "tipe": "Anomaly",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lucy.0.png",
+    "dialoge": "Parece que has perdido tu chispa. ¿Quieres que te ayude a recuperarla?.",
+    "color":"#cfb684",
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.02.png');",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.04.png');"
+  },
+  {
+    "id": "20",
+    "name": "Ben Bigger",
+    "element": "fire",
+    "grade": "✦ ✦ ✦ ✦",
+    "tipe": "Defense",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lucy.0.png",
+    "dialoge": "Me gustan los números, pero eso no significa que no pueda darle una tunda a los maleantes.",
+    "color":"#a68d73",
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.02.png');",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.04.png');"
+  },
+  {
+    "id": "21",
+    "name": "Antón Ivanov",
+    "element": "electro",
+    "grade": "✦ ✦ ✦ ✦",
+    "tipe": "Attack",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lucy.0.png",
+    "dialoge": "¿Hay algún problema? ¡Yo me encargo!.",
+    "color":"#d7be71",
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.02.png');",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.04.png');"
+  },
+  {
+    "id": "22",
+    "name": "soukaku",
+    "element": "ice",
+    "grade": "✦ ✦ ✦ ✦",
+    "tipe": "support",
+    "img": "https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/sources/personajes/lucy.0.png",
+    "dialoge": "Siempre y cuendo pueda comer hasta reventar, me doy por satisfecha~.",
+    "color":"#6ea0d9",
+    "rec1":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.02.png');",
+    "rec2":"linear-gradient(to bottom, transparent, rgb(73, 21, 34)), url('https://raw.githubusercontent.com/CrizzVc/Api_zzz/refs/heads/main/img/artwork/lucy/lucy.04.png');"
   }
 ]
+
